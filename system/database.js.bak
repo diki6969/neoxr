@@ -130,7 +130,7 @@ module.exports = (m) => {
          onlyprefix: '+',
          owners: ['6282281657946', '62856091885235'],
          lastReset: new Date * 1,
-         msg: 'Hi +tag 🪸\nI am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.\n\n◦ *Database* : +db\n◦ *Library* : Baileys v+version\n◦ *Source* : https://github.com/diki6969/neoxr\n\nIf you find an error or want to upgrade premium plan contact the owner.',
+         msg: 'Hi +tag 🪸\nI am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.\n\n◦ *Database* : +db\n◦ *Library* : Baileys v+version\n◦ *Rest API* : https://api.neoxr.my.id\n◦ *Source* : https://github.com/neoxr/neoxr-bot\n\nIf you find an error or want to upgrade premium plan contact the owner.',
          menuStyle: 4,
          cover: 'https://telegra.ph/file/d826ed4128ba873017479.jpg',
          link: 'https://chat.whatsapp.com/Lao3HWH4lYiBzWBR38HbTX'
