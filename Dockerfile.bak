@@ -12,8 +12,6 @@ COPY package.json .
 
 RUN npm install node@16.13.0
 
-RUN npm i
-
 COPY . .
 
 EXPOSE 5000
